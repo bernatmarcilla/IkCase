@@ -1,6 +1,6 @@
 # IkCase
 
-_A 40% Alice Acrylic Case_
+_A 45% Alice Acrylic Case_
 
 _Stacked Acrylic Case for layouts like Prime-E and Prime-Elise_
 
