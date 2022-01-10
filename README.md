@@ -20,6 +20,13 @@ You can find Prime Keyboard's original case files [here](https://cdn.shopify.com
 
 - **Fixed Layout**: 1.25U Tab, 1.75U left Shift, 1.25U bottom row modifiers, 2.00U left space bar, 2.25U right space bar, 1.25U right shift and 1.75U enter. 
 
+
+##### Backspace Options:
+
+1. **Split Backspace**: 2x 1.00U keys (like the renders). 
+
+2. **2u Backspace**: 1x 2.00U stab key. *Check [#feat-2uBrackspace](https://github.com/ikcoin/IkCase-hhkb/tree/feat-2uBrackspace) branch for this option.*
+
 ---
 
 ## Acrilic Layers
