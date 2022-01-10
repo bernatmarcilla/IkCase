@@ -25,7 +25,7 @@ You can find Prime Keyboard's original case files [here](https://cdn.shopify.com
 
 1. **Split Backspace**: 2x 1.00U keys (like the renders). 
 
-2. **2u Backspace**: 1x 2.00U stab key. *Check [#feat-2uBrackspace](https://github.com/ikcoin/IkCase-hhkb/tree/feat-2uBrackspace) branch for this option.*
+2. **2u Backspace**: 1x 2.00U stab key. *Check [#feat-2uBrackspace](https://github.com/ikcoin/IkCase-hhkb/tree/feat-2uBackspace) branch for this option.*
 
 ---
 
