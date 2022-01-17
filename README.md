@@ -31,7 +31,8 @@ You can find Prime Keyboard's original case files [here](https://cdn.shopify.com
 
 ## Acrilic Layers
 
-The case is made with 4 layers of acrylic that are stacked on top of each other and held together with 4 **M2** screws. Note that this case has been developed for a PCB that has the **USB underneath of the PCB**. This case **won't fit with a PCB that has the USB on top**. 
+The case is made with 4 layers of acrylic that are stacked on top of each other and held together with 4 **M3** screws (screw holes are 3mm diameter). 
+Note that this case has been developed for a PCB that has the **USB underneath of the PCB**. This case **won't fit with a PCB that has the USB on top**. 
 
 - **Top**: The top piece of the case. The ideal thickness is 8mm (8 millimetres), and because it is not easy (and cheap) to find a 8mm thick acrylic piece, a good alternative could be 1x 3mm and 1x 5mm to get the 8mm. 
 
