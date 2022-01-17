@@ -37,9 +37,9 @@ The case is made with 4 layers of acrylic that are stacked on top of each other 
 
 - **Plate**: This is the switchplate of the keyboard. Will hold the switches and the ideal thickness is 5mm (5 millimetres). 
 
-- **Mid**: this piece is placed between the plate and the base piece to offer space to the PCB. 
+- **Mid**: This piece is placed between the plate and the base piece to offer space to the PCB and the ideal thickness is 5mm (5 millimetres). 
 
-- **Base**: The bottom piece that closes the case. Like **Mid** piece, has the USB port exit. 
+- **Base**: The bottom piece that closes the case. The ideal thickness is 3mm (3 millimetres). Like **Mid** piece, has the USB port exit. 
 
 
 ![IkCase](./Renders/18.png)
